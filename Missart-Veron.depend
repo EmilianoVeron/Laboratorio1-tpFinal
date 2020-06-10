@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591764130 source:d:\programación\utn\programación1\tp final\missart-veron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
