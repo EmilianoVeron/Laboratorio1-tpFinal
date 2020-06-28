@@ -1,7 +1,22 @@
 # depslib dependency file v1.0
-1591764130 source:d:\programación\utn\programación1\tp final\missart-veron\main.c
+1591761762 source:d:\programación\utn\programación1\tp final\missart-veron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1593130609 source:c:\users\jmiss\desktop\missart-veron\main.c
 	<stdio.h>
 	<stdlib.h>
 	<conio.h>
 	<string.h>
+	<windows.h>
+	<time.h>
+
+1592171766 source:d:\programación\utn\programación1\missart-veron\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
 
